@@ -1,0 +1,5 @@
+Main text Font: Edmond Sans Bold
+Main Font Color HEX: #ffffff
+Slogan Text Font: Questa Grande Bold
+Slogan Font Color HEX: #ffffff
+Symbol Color HEX: #ffffff
